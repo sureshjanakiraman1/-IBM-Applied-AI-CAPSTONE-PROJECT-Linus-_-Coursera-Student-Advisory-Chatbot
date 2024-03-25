@@ -2,20 +2,22 @@
 
 ### DISCLAIMER: This chatbot has been developed as a project part of the Coursera course: Building AI Applications with Watson APIs.
 
-I am a chatbot to do Coursera Student Advisory role 
+Create a repository created with StudentChatbott name. 
 
-## LINUS - IMPROVEMENT ANALYSIS
+Upload the coursera_courses.json file.
 
-### Linus has improved manyfolds from his initial inception as a simple flower recommending bot.
+Did you share a screenshot of Student Advisor skills created in Watson Assistant.
 
-  1. Linus can now easily understand much of your intentions seamlessly, thanks to a rich intents library I made. Linus will talk about enrollment costs and also provide sites from the rich database from Watson Discovery to give you the courses available.
+Did you share the screenshot of the URL and Headers in webhook settings.
 
-  2. The Professional Certification sector has made vast improvements. Now, Linus will remember which professional certification course you were interested in before by storing it in a context variable. So now, whenever you want to enroll in a Coursera course, not only will Linus help you enroll in the previously mentioned certification, but will also provide a link directly to the enrollment page in Coursera!
+Did you test your chatbot with the below queries and take the screenshots of the responses.
+- Recommend me a course on Python 
+- Recommend me a course on Data Analysis Tools 
+- Recommend me a course on Data Science  
+- Recommend me a course on Nanotechnology  
+-  Recommend me a course on Javascript
 
-  3. A Helpdesk section has also been set up to again rely on the rich documentations uploaded in our Watson Discovery instance, to help students with basic doubts related to learning programs, setting up accounts, payment options, etc.
-
-  4. There were major improvements done to the generic Chatting sector of Linus. Linus, when asked about himself, will tell you everything you need to know about Linus. And most importantly, Linus has developed a not-so-decent sense of humor, which you can avail anytime you want. Just ask Linus to tell a joke!
-
+Does your chatbot handle typical chit-chat interactions such as greetings, thank you, et cetera? Share the screenshot of the response 
 
 ### Linus has really proven himself to be a decent chatbot with some abnormalities (obviously), but, at the end of the day, when it comes to helping students out find a decent Coursera course to pursue, Linus can get the job done!
 
