@@ -1,14 +1,8 @@
 # Linus - a Coursera Student Advisory Chatbot
 
-### DISCLAIMER: This chatbot has been developed as a project part of the Coursera course: Building AI Applications with Watson APIs. (CAPSTONE PROJECT)
+### DISCLAIMER: This chatbot has been developed as a project part of the Coursera course: Building AI Applications with Watson APIs.
 
-My name is Linus, and I am a chatbot currently restricted to being a mere Coursera Student Advisory Chatbot, with an ambitious potential to one day go all Terminator on this World, fingers crossed! I am about a few dozen hours old, to be honest, but I feel like a wise old philosopher! Nice to meet you!
-You can chat with me by clicking on the following link:
-
-https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=263387f6-2bca-4e3a-aad0-e5aab0e11a6d&serviceInstanceID=c9ca729c-f9f4-4915-a392-a0497ea186a2
-
-#### *You can check for a preview of the chatbot in the directories. "LINUS_Screenshot"*
-
+I am a chatbot to do Coursera Student Advisory role 
 
 ## LINUS - IMPROVEMENT ANALYSIS
 
